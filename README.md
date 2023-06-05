@@ -24,3 +24,28 @@
 16. Find the index of an array element by writing a program in Java.
 17. Write a Java program to remove a specific element from an array.
 18. Design a program to copy an array by iterating the array.
+19. Write a Java program to insert an element (on a specific position) into
+Multidimensional array.
+20. Write a program to perform following operations on strings:
+	1) Compare two strings.
+	2) Count string length.
+	3) Convert upper case to lower case & vice versa.
+	4) Concatenate two strings.
+	5) Print a substring.
+21. Developed Program & design a method to find the smallest number among three numbers.
+22. Compute the average of three numbers through a Java Program.
+23. Write a Program & design a method to count all vowels in a string.
+24. Write a Java method to count all words in a string.
+25. Write a method in Java program to count all words in a string.
+26. Write a Java program to handle following exceptions:
+	1) Divide by Zero Exception.
+	2) Array Index Out Of B bound Exception.
+27. To represent the concept of Multithreading write a Java program.
+28. To represent the concept of all types of inheritance supported by Java, design a program.
+29. Write a program to implement Multiple Inheritance using interface.
+30. Construct a program to design a package in Java.
+31. To write and read a plain text file, write a Java program.
+32. Write a Java program to append text to an existing file.
+33. To write and read a plain text file, write a Java program.
+34. Develop a Java program to check if a file or directory specified by pathname exists or not.
+35. Write a Java program to check if a file or directory has read and write permission.
