@@ -12,15 +12,14 @@ class Main {
         System.out.printf("Enter "+n+" Elements to add in array: ");
         for(int i=0; i<n;i++) list.add(sc.nextInt());
 
-        System.out.println("Enter num to remove from array");
+        System.out.println("Enter index of num to remove from array");
         int numToRemove = sc.nextInt();
 
-        // remove element here
+        list.remove(numToRemove);
 
-        System.out.println("List After Removing "+numToRemove);
+        System.out.println("List After Removing index "+numToRemove);
         for(Integer i: list) System.out.printf("%d ",i);
 
-        
         sc.close();
         
     }

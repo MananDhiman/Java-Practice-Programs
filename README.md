@@ -24,8 +24,7 @@
 16. Find the index of an array element by writing a program in Java.
 17. Write a Java program to remove a specific element from an array.
 18. Design a program to copy an array by iterating the array.
-19. Write a Java program to insert an element (on a specific position) into
-Multidimensional array.
+19. Write a Java program to insert an element (on a specific position) into Multidimensional array.
 20. Write a program to perform following operations on strings:
 	1) Compare two strings.
 	2) Count string length.
